@@ -19,7 +19,8 @@ datasets/result.csv
 
 # logs
 logs/*
-
+# pdf docs that may be in directory
+*.pdf
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
 
